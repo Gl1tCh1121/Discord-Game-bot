@@ -1,7 +1,8 @@
 <h1 align="center">Discord Games Bot</h1>
 
-<p align="center">
+<p>
   A fun Discord bot with multiple mini-games, player statistics, and a reward system.<br>
+  <br>
   Enjoy playing directly in your Discord server!
 </p>
 
@@ -16,7 +17,7 @@
       <li><b>NumGame</b> – guess the number challenge.</li>
     </ul>
   </li>
-  <li> <b>Multi-language support</b> (English & Georgian).</li>
+  <li> <b>Multi-language support</b> (Coming soon).</li>
   <li> <b>Game Coins (GC):</b>
     <ul>
       <li>+3 GC for winning Blackjack.</li>
@@ -54,9 +55,6 @@
 <h2> Getting Started</h2>
 
 <h3>1. Clone the repository</h3>
-<pre><code>git clone https://github.com/your-username/games-bot.git
-cd games-bot
-</code></pre>
 
 <h3>2. Install dependencies</h3>
 <pre><code>pip install discord
