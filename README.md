@@ -103,8 +103,9 @@ Game: NumGame   - Wins: 1, Losses: 0, Played: 1
 <hr>
 
 <h2> Built With</h2>
+
 <ul>
-  <li><a href="https://github.com/Rapptz/discord.py">discord.py</a></li>
+  <li>discord library</li>
   <li>Python 3.9+</li>
 </ul>
 
