@@ -124,9 +124,9 @@ Game: NumGame   - Wins: 1, Losses: 0, Played: 1
 <p>Contributions are welcome! If you'd like to improve the bot, follow these steps:</p>
 <ol>
   <li>Fork the repository</li>
-  <li>Create a new branch (<code>git checkout -b feature-name</code>)</li>
-  <li>Commit your changes (<code>git commit -m "Add feature"</code>)</li>
-  <li>Push to your branch (<code>git push origin feature-name</code>)</li>
+  <li>Create a new branch </li>
+  <li>Commit your changes </li>
+  <li>Push to your branch </li>
   <li>Open a Pull Request</li>
 </ol>
 <hr>
