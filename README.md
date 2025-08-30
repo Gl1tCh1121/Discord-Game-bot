@@ -72,7 +72,7 @@
 
 <hr>
 
-<h2>⚙ Commands</h2>
+<h2> Commands</h2>
 
 <table>
   <tr><th>Command</th><th>Description</th></tr>
