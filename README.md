@@ -114,7 +114,7 @@ Game: NumGame   - Wins: 1, Losses: 0, Played: 1
 <h2> Future Plans</h2>
 <ul>
   <li> Add a shop system to spend Game Coins</li>
-  <li> Add global r leaderboards</li>
+  <li> Add global leaderboards</li>
   <li> Add more mini-games</li>
 </ul>
 
