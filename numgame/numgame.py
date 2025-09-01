@@ -101,7 +101,7 @@ class NumGame:
                     
             except asyncio.TimeoutError:
                 await ctx.send("⏰ დრო ამოიწურა! თამაში დასრულებულია.")
-                self.user_losses += 1
+                self.game_active = False
                 await self.end_game(ctx)
                 break
 
