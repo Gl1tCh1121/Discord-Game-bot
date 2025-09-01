@@ -17,7 +17,7 @@
       <li><b>NumGame</b> – guess the number challenge.</li>
     </ul>
   </li>
-  <li> <b>Multi-language support</b> (Coming soon).</li>
+  <li> <b>Multi-language support</b></li>
   <li> <b>Game Coins (GC):</b>
     <ul>
       <li>+3 GC for winning Blackjack.</li>
