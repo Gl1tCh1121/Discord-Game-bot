@@ -13,7 +13,7 @@
   <li><b>3 Games available:</b>
     <ul>
       <li><b>Hangman</b> – guess the hidden word.</li>
-      <li><b>Blackjack</b> – classic card game against the dealer.</li>
+      <li><b>Blackjack</b> – classic card game against th e dealer.</li>
       <li><b>NumGame</b> – guess the number challenge.</li>
     </ul>
   </li>
