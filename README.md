@@ -6,7 +6,7 @@
   Enjoy playing directly in your Discord server!
 </p>
 
-<hr>
+<hr> 
 
 <h2> Features</h2>
 <ul>
